@@ -1,4 +1,4 @@
-//  Strings in JS 
+ /*  Strings in JS 
 /*function username(role){
  let reverstring =""
  for(let i=role.length; i>=0; i--){
